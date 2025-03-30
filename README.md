@@ -18,8 +18,8 @@ Soon I will add the jupyter notebook for the same
 
 ## Applications
 
-Attendance systems\n
-Security and surveillance\n
+Attendance systems<br>  
+Security and surveillance<br>
 User authentication
 
 ## Future Improvements
