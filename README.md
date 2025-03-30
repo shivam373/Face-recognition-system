@@ -1,0 +1,13 @@
+# Face Recognition System
+
+## Overview
+
+This face recognition system is designed to detect and recognize faces using a combination of MTCNN, FaceNet, and SVM. The system extracts facial features and performs classification to identify individuals.
+
+## Workflow
+
+Face Detection: Uses MTCNN (Multi-Task Cascaded Convolutional Networks) to detect faces in an image.
+
+Feature Extraction: Extracts face embeddings using FaceNet, which maps faces into a high-dimensional space.
+
+Face Classification: Uses an SVM (Support Vector Machine) classifier to recognize faces based on the extracted embeddings.
