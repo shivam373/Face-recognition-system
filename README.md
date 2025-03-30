@@ -18,7 +18,7 @@ Soon I will add the jupyter notebook for the same
 
 ## Applications
 
-Attendance systems<br>  
+Attendance systems<br>
 Security and surveillance<br>
 User authentication
 
