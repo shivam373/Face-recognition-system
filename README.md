@@ -2,7 +2,8 @@
 
 ## Overview
 
-This face recognition system is designed to detect and recognize faces using a combination of MTCNN, FaceNet, and SVM. The system extracts facial features and performs classification to identify individuals.
+This face recognition system is designed to detect and recognize faces using a combination of MTCNN, FaceNet, and SVM. The system extracts facial features and performs classification to identify individuals. 
+It has the accuracy of about 95% on real time feed with just 20 images of each class. 
 
 ## Workflow
 
