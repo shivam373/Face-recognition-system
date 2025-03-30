@@ -15,3 +15,20 @@ Face Classification: Uses an SVM (Support Vector Machine) classifier to recogniz
 ## Source Code 
 
 Soon I will add the jupyter notebook for the same 
+
+## Applications
+
+1.Attendance systems
+2.Security and surveillance
+3.User authentication
+
+## Future Improvements
+
+Adding Anti-Spoof filter  
+Improve accuracy with fine-tuning
+Implement real-time face recognition using a webcam
+Extend support for multiple faces in an image
+
+## License
+
+This project is open-source and available for further improvements.
