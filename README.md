@@ -11,3 +11,7 @@ Face Detection: Uses MTCNN (Multi-Task Cascaded Convolutional Networks) to detec
 Feature Extraction: Extracts face embeddings using FaceNet, which maps faces into a high-dimensional space.
 
 Face Classification: Uses an SVM (Support Vector Machine) classifier to recognize faces based on the extracted embeddings.
+
+## Source Code 
+
+Soon I will add the jupyter notebook for the same 
